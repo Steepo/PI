@@ -11,11 +11,10 @@ Ovviamente, non disponendo di computer per il calcolo intensivo, il progetto non
 Questo al fine di meglio imparare a conoscere i Sistemi di elaborazione e gestire la complessità degli algoritmi.
 
 Gli strumenti a disposizione utilizzati sono stati:
-
-•	Un MacBook Pro Quad core i7 3.5 Gh
-•	Un HP Dual Core Quad Thread  i7 2.60 Ghz
-•	Un MacBook Pro Dual Core i5 3.3 Ghz
-•	Un ASUS Dual core Quad Thread i7 2.9 Ghz
+  •	 Un MacBook Pro Quad core i7 3.5 Gh
+  •	Un HP Dual Core Quad Thread  i7 2.60 Ghz
+  •	Un MacBook Pro Dual Core i5 3.3 Ghz
+  •	Un ASUS Dual core Quad Thread i7 2.9 Ghz
 I sistemi operativi:
 •	Windows 10
 •	OSX 10.12 Sierra 
