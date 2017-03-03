@@ -1,32 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<HTML>
-<HEAD>
-	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
-	<TITLE></TITLE>
-	<META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
-	<META NAME="AUTHOR" CONTENT="Angela Galeazzi">
-	<META NAME="CREATED" CONTENT="20170303;81400000000000">
-	<META NAME="CHANGEDBY" CONTENT="Stefano Eportentosi">
-	<META NAME="CHANGED" CONTENT="20170303;81800000000000">
-	<META NAME="AppVersion" CONTENT="15.0000">
-	<META NAME="DocSecurity" CONTENT="0">
-	<META NAME="HyperlinksChanged" CONTENT="false">
-	<META NAME="LinksUpToDate" CONTENT="false">
-	<META NAME="ScaleCrop" CONTENT="false">
-	<META NAME="ShareDoc" CONTENT="false">
-	<STYLE TYPE="text/css">
-	<!--
-		@page { margin-left: 0.79in; margin-right: 0.79in; margin-top: 0.98in; margin-bottom: 0.79in }
-		P { margin-bottom: 0.08in; direction: ltr; widows: 2; orphans: 2 }
-	-->
-	</STYLE>
-</HEAD>
-<BODY LANG="it-IT" DIR="LTR">
-<P STYLE="margin-bottom: 0in">Decimali di P Greco: Pgreco day</P>
-<P STYLE="margin-bottom: 0in"><BR>
-</P>
-<P STYLE="margin-bottom: 0in"><BR>
-</P>
+
 <P STYLE="margin-bottom: 0in">In occasione del Pgreco day, con la
 quinta info1 dell’ITIS Magistri Cumacini, abbiamo deciso di
 calcolare il maggior numero possibile di decimali esatti di P Greco.</P>
