@@ -1,4 +1,4 @@
-
+#PI
 <P STYLE="margin-bottom: 0in">In occasione del Pgreco day, con la
 quinta info1 dell’ITIS Magistri Cumacini, abbiamo deciso di
 calcolare il maggior numero possibile di decimali esatti di P Greco.</P>
